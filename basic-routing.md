@@ -9,9 +9,11 @@ return 'Hello World';
 });
 ```
 
+```
 Route::get('/greeting', function () {
 return 'Hello World';
 });
+```
 
 ## The router allows you to register routes that respond to post
 ```
